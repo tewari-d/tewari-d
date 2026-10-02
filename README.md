@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @tewari-d
-- 👀 I’m interested in abap and sapui5 programming
-- 🌱 I’m currently learning  about abap on cloud and cds technology
-- 💞️ I’m looking to collaborate on abap and sapui5 projects
-- 📫 How to reach me tewarideepak3@gmail.com
+## Hi, I'm Deepak Tewari 👋
 
-<!---
-n0dE-0ctan3/n0dE-0ctan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**SAP Technical Lead @ Nagarro** · BTP · Fiori · S/4HANA · ABAP · GenAI
+
+As an SAP Technical Lead with 10 years of experience, I design and deliver solutions on SAP BTP and S/4HANA, from CAP services and Fiori apps to clean-core ABAP extensions. I lead development teams, build automation accelerators that remove repetitive SAP setup work, and build Generative AI tools on SAP BTP.
+
+### What I work with
+**SAP BTP** · **CAP (Node.js, CDS)** · **Fiori Elements / SAPUI5** · **S/4HANA** · **RAP** · **OData** · **ABAP** · **Generative AI**
+
+### Selected work
+| Project | What it does |
+|---|---|
+| **CAP Guardian** · [see its pull requests](https://github.com/tewari-d/demo-employees-victim/pulls?q=is%3Apr) | GenAI self-healing for CAP apps on BTP. When an app crashes, it reads the logs, proposes a fix and raises a pull request for human review. |
+| [**alv_util**](https://github.com/tewari-d/alv_util) | ABAP class that displays deep structures and nested internal tables in ALV, without opening the debugger. |
+| [**abap-gateway-json**](https://github.com/tewari-d/abap-gateway-json) | Generates JSON payload templates for testing OData POST/PUT requests in the Gateway Client or Postman. |
+
+### Currently
+Deepening my work in ABAP Cloud and RAP, and building GenAI tooling on SAP BTP.
+
+### Reach me
+[LinkedIn](https://www.linkedin.com/in/deepaktewari-sap) · [Email](mailto:tewarideepak3@gmail.com)
